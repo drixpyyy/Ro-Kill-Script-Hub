@@ -22,9 +22,6 @@ end)
 
 -- // Elements \\ -- (Type, Name, State, Callback)
 local button = sector.element('Button', 'Cat bypasser(incase first one is gay😭)', nil, function()
---[[ For retards: Remove the ` ` `  signs at the start and end of the script
- .gg/catbypasser ]]
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shadow62x/catbypass/main/upfix"))()
 end)
 
